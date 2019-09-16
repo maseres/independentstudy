@@ -20,9 +20,11 @@ In the original assignment, I focused on a single treaty (Defensive Alliance Bet
 
 Working off of the original assignment, in this study I would like to:
 
-* Read and analyze at more treaties from the database to see if a similar pattern emerges.
+* Read and analyze at more of the peace treaties from the database to see if a similar pattern emerges.
 
-* Use the treaties as a unit of analysis to create a quantitative component to potentially model reference to Christian authority as a credibility signal. I am hoping to create a dataset based off the treaties, and then use the data to see if there is a link between credibility and Christianity. 
+* Use the treaties as a unit of analysis to create a quantitative component to potentially model reference to Christian authority as a credibility signal. I am hoping to create a dataset based off the treaties, and then use the data to see if there is a link between credibility and Christianity.
+
+    + Would use definitive/explicit Christian references meaning "There shall be a Christian peace", "Made in the name of God", "In the name of the Holy Trinity", etc. (of which are usually located in the opening or final sentence of the treaty).
 
 * Potentially look into the effect this reference to Christian authority specifically had on state behaviour. In the original paper I focused more on the treaty as a result of state interest, looking at the objectives and design components. 
 
