@@ -1,0 +1,22 @@
+---
+title: "PRELIMINARY BIBLIOGRAPHY"
+subtitle: "POLI490 INDEPENDENT READING & RESEARCH"
+author: "Maelee Ane Seres"
+date: "9/16/2019"
+output: pdf_document
+---
+
+1. Oxford Treaty Series Database
+
+2. The Rational Design of International Institutions
+
+    *Koremenos, Barbara, et al. “The Rational Design of International Institutions.”        International Organization, vol. 55, no. 4, 2001, pp. 761–799. JSTOR, [www.jstor.org/stable/3078615](www.jstor.org/stable/3078615).*
+
+3. The Holy Bible, New King James Version (NKJV)
+
+4. Joshua 9 And The Biblical Standard For Treaties
+
+    *Bright, Nathen. “Joshua 9 And The Biblical Standard For Treaties.” Edge 
+    Induced Cohesion, 14 Jan. 2011, [edgeinducedcohesion.blog/2011/01/14/ joshua-9-and-the-biblical-standardfor-treaties/](edgeinducedcohesion.blog/2011/01/14/joshua-9-and-the-biblical-standardfor-treaties/).*
+	
+> * Used just as an overview of the Gibeonite treaty
