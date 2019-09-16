@@ -24,10 +24,11 @@ Working off of the original assignment, in this study I would like to:
 
 * Use the treaties as a unit of analysis to create a quantitative component to potentially model reference to Christian authority as a credibility signal. I am hoping to create a dataset based off the treaties, and then use the data to see if there is a link between credibility and Christianity.
 
-    + Would use definitive/explicit Christian references meaning "There shall be a Christian peace", "Made in the name of God", "In the name of the Holy Trinity", etc. (of which are usually located in the opening or final sentence of the treaty).
+    + Would look for definitive/explicit Christian references meaning "There shall be a Christian peace", "Made in the name of God", "In the name of the Holy Trinity", etc. (of which are usually located in the opening or final sentence of the treaty).
+    + Preliminary datasheet: [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1u9yrI1372BkRPvOlutswNHqQIX9w9iPoMCsy_UUvgAY/edit?usp=sharing)
 
 * Potentially look into the effect this reference to Christian authority specifically had on state behaviour. In the original paper I focused more on the treaty as a result of state interest, looking at the objectives and design components. 
 
 * Additionally from my paper, I found that the biblical treaties/covenants, were enforced through the later actions of God, creating a potential enforcement mechanism, and I think it would be interesting to see if that applies to the treaties from the database, made under the same conditions. 
 
-* Potential questions: Before international institutions, are treaties that reference God more credible than without? Does this reference to Christian authority create an enforcement mechanism?
+* **Potential questions:** Before international institutions, are treaties that reference God more credible than without? Does this reference to Christian authority create an enforcement mechanism?
